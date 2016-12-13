@@ -2,6 +2,9 @@ yii2-messages
 =============
 Messages for users.
 
+version 0.1
+-----------
+
 Installation
 ------------
 
