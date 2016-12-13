@@ -1,0 +1,21 @@
+{
+    "name": "seacjs/yii2-messages",
+    "description": "Messages for users.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","messages\\seacjs"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evgeny",
+            "email": "sea-cjs@yandex.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "seacjs\\messages\\": ""
+        }
+    }
+}
